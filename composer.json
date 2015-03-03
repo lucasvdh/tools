@@ -1,0 +1,11 @@
+{
+    "name": "lucasvdh/tools",
+    "description": "Laravel helper functions and other tools",
+    "authors": [
+        {
+            "name": "Lucas van der Have",
+            "email": "lucas@rapide.nl"
+        }
+    ],
+    "require": {}
+}
